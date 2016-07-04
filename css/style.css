@@ -1,7 +1,8 @@
 header {
   padding: 10px;
   height: 500px;
-  background-image: url('/static/images/back.jpg');
+  background-color: #27325a;
+  background-image: url('static/images/back.jpg');
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
